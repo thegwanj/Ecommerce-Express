@@ -2,7 +2,6 @@
 ## Table of Contents
 - [Description](#description)
 - [Links](#links)
-- [Issues](#issues)
 
 ## Description 
 Week 13 challenge where we will use our knowledge of SQL to create an app that can store and retrieve data related to e-commerce items. The following is the user story and acceptance criteria for the project:
@@ -34,5 +33,3 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Links
 Screencastify Video: https://watch.screencastify.com/v/c0OVk4HiSElLuoHBdDTv
 GitHub Repo: https://github.com/thegwanj/text-editor
-
-## Issues
