@@ -33,4 +33,4 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Links
 Screencastify Video: https://watch.screencastify.com/v/c0OVk4HiSElLuoHBdDTv
 
-GitHub Repo: https://github.com/thegwanj/text-editor
+GitHub Repo: https://github.com/thegwanj/ecommerce-express
